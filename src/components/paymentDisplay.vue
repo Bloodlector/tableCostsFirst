@@ -15,9 +15,7 @@
         v-bind:index="i"
         v-on:remove-item="removeItem"
       />
-    </table>
-    
-      
+    </table>     
   </div>
 </template>
 
